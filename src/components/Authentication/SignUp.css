@@ -1,0 +1,46 @@
+
+.singhup{
+    /* margin-top: 10rem;
+  margin-left: 20rem; */
+  display: flex;
+  margin: auto;
+  margin-top: 5rem;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  width: 20rem;
+  padding: 1rem;
+  background-color: #f1d6c4;
+  background-image: radial-gradient(#dfa57f 8%,transparent 0);
+  background-position: 0 0;
+  background-size: 1.8rem 1.8rem;
+  border-radius: 4rem;
+  box-shadow: inset 0 0 5rem 2rem #fff;
+}
+
+.form-control input{
+  margin: 0.25rem 0.5rem;
+  width: 90%;
+  font-size: inherit;
+  padding: 0.25rem;
+  border-radius: 10px;
+}
+.form-control label{
+  margin: 0.25rem 0.5rem;
+  font-size: inherit;
+  padding: 0.25rem;
+  border-radius: 10px;
+}
+.form-control .btn{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.form-control .btn button{
+  margin: 0.5rem;
+  width: 5rem;
+  padding: 0.25rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
